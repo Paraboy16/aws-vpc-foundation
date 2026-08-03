@@ -6,7 +6,7 @@ This project demonstrates the manual configuration of a foundational AWS network
 ## Architecture Overview & Resource Map
 The network consists of a Virtual Private Cloud (VPC), a Public Subnet, an Internet Gateway (IGW), and a custom Route Table. The Resource Map below visualizes how these components are successfully linked together.
 
-![AWS Resource Map](screenshots/Screenshot%202026-08-03%20231826_2.png)
+![AWS Resource Map](screenshots/Screenshot%202026-08-03%20231826.png)
 
 ## Implementation Details
 
