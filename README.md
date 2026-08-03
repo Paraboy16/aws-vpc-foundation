@@ -23,7 +23,7 @@ A subnet was provisioned within the VPC to house public-facing resources.
 * **Availability Zone:** us-east-1a
 * **IPv4 CIDR:** 10.0.1.0/24
 
-![Subnet Details](screenshots/Screenshot%202026-08-03%20232345.jpg)
+![Subnet Details](screenshots/Screenshot%202026-08-03%20232345.png)
 
 ### 3. Route Table and Internet Gateway Configuration
 To make the subnet truly "public," a Route Table was configured to direct all outbound internet traffic (`0.0.0.0/0`) to an attached Internet Gateway. The local route (`10.0.0.0/16`) allows resources within the VPC to communicate with each other.
